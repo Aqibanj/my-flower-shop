@@ -1,8 +1,5 @@
+*{font-family: 'Open Sans', sans-serif;}
 
-.header {
-    
-    font-family: 'Open Sans', sans-serif;
-}
 
 .container {
     
@@ -59,3 +56,12 @@
     font-weight: 700;
     line-height: normal;
 }
+/* Hot deal style */
+.hot-deal{
+    display: flex;
+    justify-content: center;
+}
+.rose-section{
+    justify-content: center;
+}
+   
